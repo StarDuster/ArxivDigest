@@ -3,7 +3,7 @@ topic: "Computer Science"
 # An empty list here will include all categories in a topic
 # Use the natural language names of the topics, found here: https://arxiv.org
 # Including more categories will result in more calls to the large language model
-categories: ["Artificial Intelligence", "operating Systems"]
+categories: ["Artificial Intelligence", "Operating Systems"]
 
 # Relevance score threshold. abstracts that receive a score less than this from the large language model
 # will have their papers filtered out.
